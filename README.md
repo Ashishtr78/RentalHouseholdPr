@@ -24,3 +24,6 @@ for backend :----
 for frontend :---
 
 # npm run dev
+
+ HOME PAGE
+ ! [image alt](https://github.com/Ashishtr78/RentalHouseholdPr/blob/34db5ce7ecf2b0d5af53ba8bcf4aa827e291ccb1/Screenshot%202024-08-04%20232017.png)
