@@ -1,0 +1,10 @@
+.dashboard {
+  padding-top: 95px;
+  padding-bottom: 40px;
+  min-height: 406px;
+}
+.row-all {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}

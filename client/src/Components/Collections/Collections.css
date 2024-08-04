@@ -1,0 +1,42 @@
+.collections {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.collections .cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.collections .card-name-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.collections .card-price {
+  color: green;
+  font-weight: bold;
+}
+.collections button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.collections .card-text {
+  color: rgb(90, 89, 89);
+}
+
+.collections .card img:hover {
+  transform: scale(0.9);
+}
+
+.collections .card-img-top {
+  height: 300px !important;
+}

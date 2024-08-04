@@ -1,0 +1,13 @@
+.adminDashboard {
+  padding-top: 95px;
+  padding-bottom: 40px;
+}
+.product-link {
+  text-decoration: none !important;
+  color: black !important;
+}
+.row-all {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
